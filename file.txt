@@ -4,3 +4,7 @@ Welcom to the Git and GitHub Workshop .
 It's a 3rd day of workshop.
 today is a quiz competition .  
 
+Last day of the workshop .
+
+
+
